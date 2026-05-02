@@ -1,3 +1,5 @@
+-- Intermediate SQL Analysis Queries
+
 -- Create table
 CREATE TABLE orders (
     order_id INT,
